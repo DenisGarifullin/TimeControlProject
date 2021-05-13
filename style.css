@@ -1,0 +1,33 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap');
+
+body{
+  font-family: roboto;
+  color: #5181B8;
+}
+
+header{
+  background-color: #E5EBF1;
+}
+
+h1{
+  font-size: 49px;
+  color: #5181B8;
+}
+
+.timeGlobalBG{
+  display: flex;
+  background-color: #F4F7FC;
+  height: 54px;
+  width: 100px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.timeGlobal{
+  margin: auto;
+  font-size: 32px;
+}
